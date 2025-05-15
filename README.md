@@ -7,7 +7,7 @@ This project hosts a WordPress site on AWS using a secure, highly available, and
 VPC with public/private subnets across two Availability Zones for high availability.
 Internet Gateway for external connectivity.
 Security Groups to control inbound/outbound traffic.
-Public Subnets for the NAT Gateway and Application Load Balancer (ALB).
+Public Subnets for the NAT Gateway and Application Load Balancer (ALB). (used 1 nat gateway but for a company i would of used 2 nat gateways)
 Private Subnets for EC2 web servers to enhance security.
 EC2 Instance Connect Endpoint for secure SSH access.
 Application Load Balancer with a target group to distribute web traffic.
