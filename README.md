@@ -17,6 +17,7 @@ Amazon EFS to provide shared file storage across EC2 instances.
 AWS Certificate Manager (ACM) for SSL/TLS certificate management.
 Amazon SNS to notify on ASG scaling events.
 Amazon Route 53 for domain name and DNS management.
+
 ⚙️ Deployment Scripts
 
 📝 WordPress EC2 Setup Script
@@ -121,15 +122,16 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 For deeper understanding or to replicate components, refer to the following official AWS resources:
 
-🧱 Amazon VPC Overview
-🌐 Subnet Routing and NAT Gateways
-🔐 Security Groups
-🖥️ Amazon EC2 Instances
-📂 Amazon EFS File System
-🗃️ Amazon RDS (MySQL)
-📈 Auto Scaling Groups
-⚖️ Application Load Balancer
-🔒 AWS Certificate Manager (ACM)
-📨 Amazon SNS
-🌍 Amazon Route 53 DNS
-📰 Hosting WordPress on AWS (AWS Blog)
+Amazon VPC
+Subnet Routing & NAT Gateways
+Security Groups
+Amazon EC2
+Amazon RDS
+Amazon EFS
+Application Load Balancer
+Auto Scaling
+AWS Certificate Manager
+Amazon SNS
+Amazon Route 53
+Hosting WordPress on AWS (AWS Blog)
+
