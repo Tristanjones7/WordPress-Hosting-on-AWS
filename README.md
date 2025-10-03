@@ -133,5 +133,5 @@ Auto Scaling
 AWS Certificate Manager
 Amazon SNS
 Amazon Route 53
-Hosting WordPress on AWS (AWS Blog)
+Hosting WordPress on AWS (AWS Blog) 
 
