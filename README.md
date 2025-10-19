@@ -59,7 +59,6 @@ Used for manual WordPress provisioning — installs Apache, PHP, MySQL, mounts E
 <details>
 <summary>Click to expand</summary>
 
-```bash
 # Become root
 sudo su
 
@@ -100,8 +99,6 @@ sudo cp /var/www/html/wp-config-sample.php /var/www/html/wp-config.php
 
 # Restart Apache
 sudo service httpd restart
-
-exit
 
 </details>
 📦 Auto Scaling Group Launch Template Script
