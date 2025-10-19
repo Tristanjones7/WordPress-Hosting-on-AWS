@@ -138,14 +138,21 @@ cd your-repo
 # Provision AWS infrastructure
 
 # (via AWS Console, CLI, or Terraform)
+
 Then:
+
 Deploy WordPress → SSH into EC2 and run the setup script.
 Attach instance → Add to ALB target group.
 Test the site → Access ALB DNS name in browser.
+
+
 📬 Contributing
 Contributions are welcome!
 Fork this repository, make your improvements, and submit a pull request 🚀
+
+
 📚 AWS Reference Documentation
+
 Service	Documentation
 Amazon VPC	Networking & subnet design
 NAT Gateways	Outbound traffic control
@@ -159,4 +166,6 @@ Certificate Manager	SSL/TLS management
 SNS	Notifications
 Route 53	DNS management
 AWS Blog: Hosting WordPress	Best practices
+
+
 <div align="center"> <sub>© 2025 Tristan Jones — Cloud / DevOps Engineer</sub> </div> ```
