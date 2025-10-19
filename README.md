@@ -100,6 +100,9 @@ sudo cp /var/www/html/wp-config-sample.php /var/www/html/wp-config.php
 
 # Restart Apache
 sudo service httpd restart
+
+exit
+
 </details>
 📦 Auto Scaling Group Launch Template Script
 Bootstraps EC2 instances automatically via ASG launch templates.
@@ -136,6 +139,7 @@ git clone https://github.com/your-username/your-repo.git
 cd your-repo
 
 # Provision AWS infrastructure
+
 # (via AWS Console, CLI, or Terraform)
 Then:
 Deploy WordPress → SSH into EC2 and run the setup script.
